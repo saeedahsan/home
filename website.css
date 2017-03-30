@@ -1,0 +1,46 @@
+body
+{
+	background-image:url("images/back.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color:black;
+	text-align:center;
+	margin:5% 5% 10% 10%;
+	font-family:"Arial Black", Gadget, sans-serif;	
+	height:100%
+}
+nav
+{
+	font-family:"Courier New", Courier, monospace;
+	font-weight:bold;
+}
+ul
+{
+	text-align:left;
+}
+h2
+{
+	text-align:left;
+}
+div.canada
+{
+	text-align:center;
+}
+div.pic
+{
+	margin:10% 10% 10% 10%;
+}
+#top1
+{
+	text-align:right;
+}
+figure
+{
+	font-size:10pt;
+}
+h1,h2, h3
+{
+	font-family:Impact, Charcoal, sans-serif;	
+}
+/*This is my comment*/
